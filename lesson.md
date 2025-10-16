@@ -17,3 +17,5 @@ We will be using [this](https://colab.research.google.com/drive/1io-CwOqM7Aw90_V
 > Open the Colab link, then go to File -> Save a copy in Drive. This will create a copy of the notebook in your Google Drive. It will then open the notebook in a new tab.
 >
 > Follow on with the lesson in the notebook.
+
+Link to colab file in drive: https://colab.research.google.com/drive/1b494cI_aH9xaTBkZHaAOv4YhYGmnBl8A
